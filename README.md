@@ -16,7 +16,7 @@ public Cat(){
  static int price;//会报错
 }
 ```
-- class只能用public abstract & final修饰
+- class只能用public abstract & final修饰；可以有静态属性和方法，但是绝对不会有静态的类
 
 ### fun
 - string.toUpperCase()
