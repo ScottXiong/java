@@ -14,4 +14,4 @@
 ### fun
 - string.toUpperCase()
 ### problem
-- **file list is missing**:ctrl + 3 全局搜索 package explorer
+**[file list is missing]**:ctrl + 3 全局搜索 package explorer
