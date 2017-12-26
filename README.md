@@ -32,6 +32,7 @@ static void Cat(){
 }
 ```
 - class只能用public abstract & final修饰；可以有静态属性和方法，但是绝对不会有静态的类
+- this指的是实际调用那个实例化对象
 
 ### fun
 - string.toUpperCase()
