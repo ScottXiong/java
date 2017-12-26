@@ -23,6 +23,14 @@ public Cat(){
  static int price;//会报错
 }
 ```
+- 静态方法，只能访问静态属性和方法，直接访问一定会报错；除非把他们都设置成静态的，要么就在方法内部实例化一个对象，通过对象的形式去访问。
+```
+static void Cat(){
+  Cat temp=new Cat();
+  temp.name="xxx";
+  temp.run();
+}
+```
 - class只能用public abstract & final修饰；可以有静态属性和方法，但是绝对不会有静态的类
 
 ### fun
