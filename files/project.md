@@ -6,4 +6,11 @@
 ### 类的创建
 - 声明私有属性
 - get/set方法
-- 无参+有参构造（重载，方便初始化）
+- 外加2个方法无参+有参构造（重载，方便初始化） 
+- 打印信息
+```
+public String info(){
+	String str="学生信息如下:\n学生姓名："+this.getStudentName()+"\n学号："+this.getStudentNo()+"\n年龄："+this.getStudentAge();
+	return str;
+}
+```
