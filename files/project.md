@@ -10,7 +10,8 @@
 - 打印信息
 ```
 public String info(){
-	String str="学生信息如下:\n学生姓名："+this.getStudentName()+"\n学号："+this.getStudentNo()+"\n年龄："+this.getStudentAge();
+	String str="学生信息如下:\n学生姓名："+this.getStudentName()+"\n学号："+this.getStudentNo()
+	+"\n年龄："+this.getStudentAge();
 	return str;
 }
 ```
