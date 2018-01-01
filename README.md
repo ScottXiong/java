@@ -20,3 +20,4 @@
 **[file list is missing]**:ctrl + 3 全局搜索 package explorer
 ### shortcuts
 - command+shift+f 格式化代码
+- /** 空格  注释
