@@ -7,7 +7,7 @@
 - 声明私有属性
 - get/set方法
 - 外加2个方法无参+有参构造（重载，方便初始化） 
-- 打印信息
+- 打印信息：字符串返回的方式更适合多平台的展示
 ```
 public String info(){
 	String str="学生信息如下:\n学生姓名："+this.getStudentName()+"\n学号："+this.getStudentNo()
