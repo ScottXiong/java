@@ -1,4 +1,4 @@
-# java
+### java
 - [接口](https://github.com/ScottXiong/java/blob/master/files/interface.md)
 - [键盘输入](https://github.com/ScottXiong/java/blob/master/files/tap.md)
 - [static](https://github.com/ScottXiong/java/blob/master/files/static.md)
@@ -8,5 +8,5 @@
 - [attentions](https://github.com/ScottXiong/java/blob/master/files/attentions.md)
 
 ### problem
-**[file list is missing]**:ctrl + 3 全局搜索 package explorer
-### [shortcuts]()
+- **[file list is missing]**:ctrl + 3 全局搜索 package explorer
+### [shortcuts](https://github.com/ScottXiong/java/blob/master/files/shortcuts)
