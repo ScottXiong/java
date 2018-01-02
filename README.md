@@ -12,5 +12,5 @@
 - **[file list is missing]**:ctrl + 3 全局搜索 package explorer
 ### [shortcuts](https://github.com/ScottXiong/java/blob/master/files/shortcuts)
 ### concept
-- [java SE]()
+- [java SE](https://github.com/ScottXiong/java/blob/master/files/javase.md)
 - [接口](https://github.com/ScottXiong/java/blob/master/files/interface.md)
