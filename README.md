@@ -7,9 +7,6 @@
 - [attentions](https://github.com/ScottXiong/java/blob/master/files/attentions.md)
 - [param](https://github.com/ScottXiong/java/blob/master/files/param.md)
 - [作用域](https://github.com/ScottXiong/java/blob/master/files/i.md)
-
-### problem
-- **[file list is missing]**:ctrl + 3 全局搜索 package explorer
 ### [shortcuts](https://github.com/ScottXiong/java/blob/master/files/shortcuts)
 ### concept
 - [java SE](https://github.com/ScottXiong/java/blob/master/files/javase.md)
