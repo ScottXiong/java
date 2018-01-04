@@ -7,6 +7,7 @@
 - [attentions](https://github.com/ScottXiong/java/blob/master/files/attentions.md)
 - [param](https://github.com/ScottXiong/java/blob/master/files/param.md)
 - [作用域](https://github.com/ScottXiong/java/blob/master/files/i.md)
+- [修饰符](https://github.com/ScottXiong/java/blob/master/files/修饰符.md)
 ### [shortcuts](https://github.com/ScottXiong/java/blob/master/files/shortcuts)
 ### concept
 - [java SE](https://github.com/ScottXiong/java/blob/master/files/javase.md)
